@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 -->
 
 ## Other people put those charts in their profiles
-
+### What languages I use (apparently people prefer dark mode)
 ![does this thing work?](https://wakatime.com/share/@4bb49efb-ebb8-4c68-b220-1298512f089f/ff9bb537-fe1a-41bb-ab81-2456820214a8.svg)
