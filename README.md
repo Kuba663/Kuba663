@@ -7,7 +7,7 @@ I am currently learning OpenCL. I want to learn Zig.
 
 I do not use AI unless I am desperate and an esoteric error message/no error message occurs during a crash.
 
-I have some idea about LISP and Kerberos but I am not too confident with them to work.
+I have some idea about LISP and Kerberos but I am not too confident to professionally work with them.
 
 <!--
 **Kuba663/Kuba663** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
