@@ -1,7 +1,9 @@
 Finally figured out how to hide old and abandoned projects under this.
 ======================================================================
 
-I am currently working on an [OpenCL Abstraction/API for Cleanroom](https://github.com/CleanroomMC/Cleanroom/pull/587).
+I am currently working on nothing
+
+[OpenCL Abstraction/API for Cleanroom](https://github.com/CleanroomMC/Cleanroom/pull/587) is done.
 
 I am currently learning OpenCL. I want to learn Zig.
 
