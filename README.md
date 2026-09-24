@@ -1,7 +1,7 @@
 Finally figured out how to hide old and abandoned projects under this.
 ======================================================================
 
-I am currently working on nothing
+I am currently working on HandGame gesture detection
 
 [OpenCL Abstraction/API for Cleanroom](https://github.com/CleanroomMC/Cleanroom/pull/587) is done.
 
